@@ -1,0 +1,48 @@
+/*
+	Several CSS sections will be added from activity 5
+*/
+
+header > h1 {
+  color: darkblue;
+}
+
+body > form {
+	margin: 2em;
+}
+
+/*  This styling sets up the flex container */
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* this adds a border around the flex items */
+
+/* Activity 5.2.1: Media queries
+  -Add CSS that removes the border around the flex items */
+
+/* Activity 5.2.2: Media queries
+  -Add CSS for when screen size is less than 700px */
+
+
+/* Activity 5.2.3: Media queries
+  -Add CSS that checks for device hover capabilities */
+
+/* GRID CSS ACTIVITY */
+.wrapper {
+
+}
+
+.item1{
+
+}
+.item2{
+}
+.item3{
+}
+.item4{
+}
+.item5{
+}
+.item6{
+}
